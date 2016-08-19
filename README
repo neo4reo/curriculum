@@ -37,3 +37,28 @@ Here is full list (! -- haven't read, *_rus.* -- book is in russian):
 -- math:
    * anderson_discrete_math_rus.djvu -- book which covers logic, boolean algebra, numeral systems, set theory, combinatorics, graph theory & formal languages;
    * grossman_discrete_math.pdf -- same material;
+-- net:
+   ! tanenbaum_networks.pdf -- networks theory;
+   ! tcp_ip_v1.pdf -- TCP/IP bible, protocols theory;
+   ! tcp_ip_v2.pdf -- TCP/IP bible, implementation;
+   ! tcp_ip_v3.pdf -- TCP/IP bible, interaction with other protocols (?);
+-- unix:
+   ! advanced_bash.pdf -- different bash scripting techniques;
+   ! advanced_programming_in_unix_environment.pdf --
+   ! bash.pdf -- learning bash book;
+   * blum_bash.pdf -- linux environment, sed, awk & scripting;
+   ! freebsd_guide.pdf -- FreeBSD user's guide;
+   * gentoo_handbook_amd64_2013.pdf -- Gentoo Linux user's guide;
+   ! gnu_make.pdf -- learning GNU make book;
+   ! linux_api.pdf -- book about POSIX programming in Linux;
+   ! linux_in_nutshell.pdf -- book about building & configuring Linux kernel;
+   ! linux_inside.pdf -- book about linux kernel & it's booting process;
+   * pro_git.pdf -- book about GIT;
+   ! regexps.pdf -- book about regular expressions in different environments;
+   ! ritchie_78.pdf -- historikal work about UNIX creation;
+   ! ritchie_84.pdf -- UNIX retrospective;
+   ! unix.pdf -- book about unix environment;
+   ! unix_power_tools.pdf -- book about miriads of UNIX tools & their usage techniques;
+   ! unix_programming_environment.pdf -- fundamental book about unix environment;
+   ! unix_programming_environment_rus.pdf -- same stuff in russian.
+Some books are going to be added, see TODO for details.
