@@ -1,4 +1,39 @@
 /*
  * SHORT DESCRIPTION
  */
-[...]
+It's collection of CS & programming books I like or want to read, stored in .pdf/.djvu file formats.
+Here is full list (! -- haven't read, *_rus.* -- book is in russian):
+-- asm:
+   * blum_asm.pdf -- book on x86 32-bit user-level assembly using gas syntax;
+   ! gcc_asm.pdf -- notes on inline gcc assembly;
+   ! pc_asm.pdf -- book on x86 32-bit user-level assembly using Intel syntax;
+-- C:
+   ! C_reference.pdf -- large reference which covers C99;
+   * k&r.pdf -- the only C bible;
+   ! using_C_on_UNIX.pdf -- old book which covers C programming in SysV/BSD/V7;
+-- cpu:
+   * brayant_hallaron_arch.pdf -- book which widely covers computer architecture aspects;
+   * i386_manual.pdf -- official i80386 processor manual;
+   ! patterson_hennesy_arch.pdf -- detailed book about processor architecture;
+   ! patterson_hennesy_arch_quant.pdf -- another one;
+   * tanenbaum_arch_rus.pdf -- very fundamental book about computer architecture written in bottom-up way;
+   ! x86_manual_v1.pdf -- official x86 32-/64-bit processors manual, describes architecture in general;
+   ! x86_manual_v2.pdf -- official x86 32-/64-bit processors manual, describes instruction set;
+   ! x86_manual_v3.pdf -- official x86 32-/64-bit processors manual, describes system programming aspects;
+   ! x86_optimizations.pdf -- official x86 32-/64-bit processors manual, describes optimization techniques;
+-- kernel:
+   * bach_design_of_the_unix_os.pdf -- great book about System V internals;
+   * elf.pdf -- official ELF format manual;
+   ! linux_drivers.pdf -- book about writing device drivers for Linux;
+   ! love_linux_development.pdf -- book about linux kernel;
+   ! mckusick_fast_fs.pdf -- paper about BSD fast file system implementation;
+   ! stallings.pdf -- generic book about OSs;
+   * tanenbaum_modern_os.pdf -- theoretical book which widely covers modern OSs;
+   ! tanenbaum_os_design&implementation.djvu -- book about MINIX;
+   ! tanenbaum_os_design&implementation_rus.djvu -- same stuff in russian;
+   ! understanding_linux.pdf -- book about linux kernel;
+   * xv6_book.pdf -- MIT materials about their xv6 teaching OS;
+   * xv6_src.pdf -- xv6's source code published in V6 style;
+-- math:
+   * anderson_discrete_math_rus.djvu -- book which covers logic, boolean algebra, numeral systems, set theory, combinatorics, graph theory & formal languages;
+   * grossman_discrete_math.pdf -- same material;
