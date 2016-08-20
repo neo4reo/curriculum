@@ -3,6 +3,10 @@
  */
 It's collection of CS & programming books I like or want to read, stored in .pdf/.djvu file formats.
 Here is full list (! -- haven't read, *_rus.* -- book is in russian):
+-- alg&ds:
+   ! C_ds&alg.pdf -- book about DS & algorithms using C;
+   ! ds_notes.pdf -- notes about implementing DS in C & C programming at all;
+   ! stephens_alg&ds.pdf -- book about DS & algorithms using pseudocode;
 -- asm:
    * blum_asm.pdf -- book on x86 32-bit user-level assembly using gas syntax;
    ! gcc_asm.pdf -- notes on inline gcc assembly;
