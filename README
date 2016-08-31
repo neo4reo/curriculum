@@ -13,7 +13,9 @@ Here is full list (! -- haven't read, *_rus.* -- book is in russian):
    ! pc_asm.pdf -- book on x86 32-bit user-level assembly using Intel syntax;
 -- C:
    ! C_reference.pdf -- large reference which covers C99;
+   ! date_time.pdf -- Eric Raymond's article about date & time programming in C;
    * k&r.pdf -- the only C bible;
+   ! struct_pack.pdf -- Eric Raymond's article about packing C-structures to avoid extra memory usage;
    ! using_C_on_UNIX.pdf -- old book which covers C programming in SysV/BSD/V7;
 -- cpu:
    * brayant_hallaron_arch.pdf -- book which widely covers computer architecture aspects;
