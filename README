@@ -19,6 +19,7 @@ Here is full list (! -- haven't read, *_rus.* -- book is in russian):
    ! using_C_on_UNIX.pdf -- old book which covers C programming in SysV/BSD/V7;
 -- cpu:
    * brayant_hallaron_arch.pdf -- book which widely covers computer architecture aspects;
+   ! cs_bottom_up.pdf -- bottom-up CS course;
    * i386_manual.pdf -- official i80386 processor manual;
    ! patterson_hennesy_arch.pdf -- detailed book about processor architecture;
    ! patterson_hennesy_arch_quant.pdf -- another one;
