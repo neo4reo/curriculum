@@ -51,7 +51,7 @@ Here is full list (! -- haven't read, *_rus.* -- book is in russian):
    ! tcp_ip_v3.pdf -- TCP/IP bible, interaction with other protocols (?);
 -- unix:
    ! advanced_bash.pdf -- different bash scripting techniques;
-   ! advanced_programming_in_unix_environment.pdf --
+   ! advanced_programming_in_unix_environment.pdf -- book about application programming for unix;
    ! bash.pdf -- learning bash book;
    * blum_bash.pdf -- linux environment, sed, awk & scripting;
    ! freebsd_guide.pdf -- FreeBSD user's guide;
