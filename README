@@ -20,6 +20,8 @@ Here is full list (! -- haven't read, *_rus.* -- book is in russian):
 -- cpu:
    * brayant_hallaron_arch.pdf -- book which widely covers computer architecture aspects;
    ! cs_bottom_up.pdf -- bottom-up CS course;
+   ! harris_&_harris.pdf -- the most detailed book about processor designing;
+   ! harris_&_harris_rus.pdf -- the most detailed book about processor designing in russian;
    * i386_manual.pdf -- official i80386 processor manual;
    ! patterson_hennesy_arch.pdf -- detailed book about processor architecture;
    ! patterson_hennesy_arch_quant.pdf -- another one;
