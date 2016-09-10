@@ -12,9 +12,16 @@ Here is full list (! -- haven't read, *_rus.* -- book is in russian):
    ! gcc_asm.pdf -- notes on inline gcc assembly;
    ! pc_asm.pdf -- book on x86 32-bit user-level assembly using Intel syntax;
 -- C:
+   ! alg_C.pdf -- data structures & algorithms using C;
+   ! C_nutshell.pdf -- another book about C;
    ! C_reference.pdf -- large reference which covers C99;
+   ! C_traps.pdf -- books about C's traps & pitfalls from AT&T;
    ! date_time.pdf -- Eric Raymond's article about date & time programming in C;
+   ! expert_C.pdf -- another book about C;
+   ! glibc.pdf -- book about GNU libc;
    * k&r.pdf -- the only C bible;
+   ! libc_defs.pdf -- book which describes libc headers;
+   ! libc.pdf -- book about libc & it's implementation;
    ! struct_pack.pdf -- Eric Raymond's article about packing C-structures to avoid extra memory usage;
    ! using_C_on_UNIX.pdf -- old book which covers C programming in SysV/BSD/V7;
 -- cpu:
@@ -23,6 +30,7 @@ Here is full list (! -- haven't read, *_rus.* -- book is in russian):
    ! harris_&_harris.pdf -- the most detailed book about processor designing;
    ! harris_&_harris_rus.pdf -- the most detailed book about processor designing in russian;
    * i386_manual.pdf -- official i80386 processor manual;
+   ! i386_osdev_manual.pdf -- official i80386 kernel developing manual;
    ! patterson_hennesy_arch.pdf -- detailed book about processor architecture;
    ! patterson_hennesy_arch_quant.pdf -- another one;
    * tanenbaum_arch_rus.pdf -- very fundamental book about computer architecture written in bottom-up way;
@@ -30,16 +38,30 @@ Here is full list (! -- haven't read, *_rus.* -- book is in russian):
    ! x86_manual_v2.pdf -- official x86 32-/64-bit processors manual, describes instruction set;
    ! x86_manual_v3.pdf -- official x86 32-/64-bit processors manual, describes system programming aspects;
    ! x86_optimizations.pdf -- official x86 32-/64-bit processors manual, describes optimization techniques;
+-- dev:
+   * cmos_rtc.pdf -- CMOS RTC clock article;
+   * i8253.pdf -- IBM PC timer documentation;
+   * i8259.pdf -- IBM PC PIC documentation;
+   * ide.pdf -- IDE disk article;
+   * kbd -- keyboard-related:
+	* i8042_0.pdf -- PS/2 keyboard documentation;
+	* i8042_1.pdf -- PS/2 keyboard article;
+   * uart.pdf -- serial interface article;
+   * vga -- VGA text mode:
+	* vga_0.pdf -- structure & output; 
+	* vga_1.pdf -- cursor article;
 -- kernel:
    * bach_design_of_the_unix_os.pdf -- great book about System V internals;
    * elf.pdf -- official ELF format manual;
    ! linux_drivers.pdf -- book about writing device drivers for Linux;
    ! love_linux_development.pdf -- book about linux kernel;
    ! mckusick_fast_fs.pdf -- paper about BSD fast file system implementation;
+   ! os_3_easy_pieces.pdf
    ! stallings.pdf -- generic book about OSs;
    * tanenbaum_modern_os.pdf -- theoretical book which widely covers modern OSs;
    ! tanenbaum_os_design&implementation.djvu -- book about MINIX;
    ! tanenbaum_os_design&implementation_rus.djvu -- same stuff in russian;
+   * thompson_78.pdf
    ! understanding_linux.pdf -- book about linux kernel;
    * xv6_book.pdf -- MIT materials about their xv6 teaching OS;
    * xv6_src.pdf -- xv6's source code published in V6 style;
@@ -59,11 +81,13 @@ Here is full list (! -- haven't read, *_rus.* -- book is in russian):
    ! freebsd_guide.pdf -- FreeBSD user's guide;
    * gentoo_handbook_amd64_2013.pdf -- Gentoo Linux user's guide;
    ! gnu_make.pdf -- learning GNU make book;
+   ! grep.pdf
    ! linux_api.pdf -- book about POSIX programming in Linux;
    ! linux_in_nutshell.pdf -- book about building & configuring Linux kernel;
    ! linux_inside.pdf -- book about linux kernel & it's booting process;
    * pro_git.pdf -- book about GIT;
    ! regexps.pdf -- book about regular expressions in different environments;
+   ! regexps_pocket.pdf
    ! ritchie_78.pdf -- historikal work about UNIX creation;
    ! ritchie_84.pdf -- UNIX retrospective;
    ! unix.pdf -- book about unix environment;
