@@ -6,7 +6,7 @@
  * STRUCTURE
  */
 
-main:
+Main courses:
 * mathematics:
 	- discrete mathematics;
 	- linear algebra & analitical geometry;
@@ -23,11 +23,27 @@ main:
 * networks;
 * parallel & distributed systems;
 * translators & linkers;
-* C programming;
+* C programming.
 
-additional:
+Additional courses:
 * mathematics:
 	- calculus;
 	- mathematical optimizations;
 * Lisp programming;
 * UNIX environment.
+
+/*
+ * RESEARCH
+ */
+
+Passing all courses requires creating all of the projects listed below:
+* monolithic UNIX-like kernel (see ygg);
+* microkernel;
+* exokernel;
+* TCP/IP stack;
+* CPU (digital design, microarchitecture, ISA);
+* C compiler for x86;
+* new language for system programming;
+* programming editor (C + Lisp).
+
+Also an article must be written for each of them.
