@@ -1,4 +1,33 @@
 /*
  * SHORT DESCRIPTION
  */
-It's collection of CS & programming books I like or want to read, stored in .pdf/.djvu file formats.
+
+/*
+ * STRUCTURE
+ */
+
+main:
+* mathematics:
+	- discrete mathematics;
+	- linear algebra & analitical geometry;
+* algorithms & data structures;
+* electronics;
+* computer architecture:
+	- digital design;
+	- microarchitecture;
+	- instruction set architecture;
+	- x86 (16-, 32-, 64-bit) architecture & assembly language;
+* operating systems:
+	- os theory;
+	- kernel programming;
+* networks;
+* parallel & distributed systems;
+* translators & linkers;
+* C programming;
+
+additional:
+* mathematics:
+	- calculus;
+	- mathematical optimizations;
+* Lisp programming;
+* UNIX environment.
