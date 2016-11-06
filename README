@@ -17,7 +17,7 @@ So I tried to build the course which will include all (at least most of all) top
 discrete mathematics -> algorithms & data structures -> electronics -> digital design -> microarchitecture -> instruction set architecture -> x86 architecture and assembly -> operating system theory -> kernel programming -> networks -> parallel and distributed systems -> translators & linkers,
 with C programming being covered and updated all the time, and without mentioning additional courses;
 
-* my preparing for good USA phD program in Computer Science, which is one of my dreams.
+* my preparing for good USA phD program in Computer Science, entering which is one of my dreams.
 
 /*
  * STRUCTURE
@@ -64,3 +64,6 @@ Passing all courses requires creating all of the projects listed below:
 * programming editor (C + Lisp).
 
 Also an article must be written for each of them.
+
+~~~~~~~~~~~~~~
+sng, 6.11.2016
