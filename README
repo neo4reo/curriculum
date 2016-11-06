@@ -2,6 +2,23 @@
  * SHORT DESCRIPTION
  */
 
+It's my own CS course list, focused mainly on system programming and related fields (but it includes some additional materials as well, see below), especially:
+* operating systems;
+* computer architecture;
+* networks;
+* compilers & languages.
+Topics are what they are because I'm very-very interested in them, not because I am forced to learn them etc.
+
+I developed this curriculum for 2 main purposes:
+
+* my personal deep (I mean DEEP) understanding of topics covered.
+I hate dilettantism and thinking without understanding (which, by the way, is very common phenomenon for commercial environments, different modern internet courses and same shit), and the best way of learning to get understanding for me is bottom-up approach (the reason is quite simple -- on each stage you understand it's structure & working principles, because you have already finished previous ones, on which this current is founded).
+So I tried to build the course which will include all (at least most of all) topics needed to become a true hacker & scientist in areas mentioned above, starting from some "axiomatic" level (as for me it's principles of how semiconductors works, without moving to quantum electrodynamics etc. (I am not immortal, sorry)), and pass them in bottom-up way (but with some parallelism when I lose interest and/or to be more effective, e.g. it's not a problem to learn networks simultaneously with processor architectures, because there are no strict requirement of knowing second in details to understand first, even while it's more abstract, etc.), approximate logic example is (some elements can be swapped without loosing bottom-up idea):
+discrete mathematics -> algorithms & data structures -> electronics -> digital design -> microarchitecture -> instruction set architecture -> x86 architecture and assembly -> operating system theory -> kernel programming -> networks -> parallel and distributed systems -> translators & linkers,
+with C programming being covered and updated all the time, and without mentioning additional courses;
+
+* my preparing for good USA phD program in Computer Science, which is one of my dreams.
+
 /*
  * STRUCTURE
  */
