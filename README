@@ -2,22 +2,9 @@
  * SHORT DESCRIPTION
  */
 
-It's my own CS course list, focused mainly on system programming and related fields (but it includes some additional materials as well, see below), especially:
-* operating systems;
-* computer architecture;
-* networks;
-* compilers & languages.
-Topics are what they are because I'm very-very interested in them, not because I am forced to learn them etc.
-
-I developed this curriculum for 2 main purposes:
-
-* my personal deep (I mean DEEP) understanding of topics covered.
-I hate dilettantism and thinking without understanding (which, by the way, is very common phenomenon for commercial environments, different modern internet courses and same shit), and the best way of learning to get understanding for me is bottom-up approach (the reason is quite simple -- on each stage you understand it's structure & working principles, because you have already finished previous ones, on which this current is founded).
-So I tried to build the course which will include all (at least most of all) topics needed to become a true hacker & scientist in areas mentioned above, starting from some "axiomatic" level (as for me it's principles of how semiconductors work, without moving to quantum electrodynamics etc. (I am not immortal, sorry)), and I will pass them in bottom-up way (but with some parallelism when I lose interest and/or to be more effective, e.g. it's not a problem to learn networks simultaneously with processor architectures, because there are no strict requirement of knowing second in details to understand first, even while it's more abstract, etc.), approximate logic example is (some elements can be swapped without loosing bottom-up idea):
-discrete mathematics -> algorithms & data structures -> electronics -> digital design -> microarchitecture -> instruction set architecture -> x86 architecture and assembly -> operating system theory -> kernel programming -> networks -> parallel and distributed systems -> translators & linkers,
-with C programming being covered and updated all the time, and without mentioning additional courses;
-
-* my preparing for good USA phD program in Computer Science, entering which is one of my dreams.
+It's my own CS curriculum, focused mainly on system programming and related fields (but it includes some other topics as well).
+It consists of 14 main & 4 additional courses, with reading some books for each of them & doing a set of projects (not for each course (projects are more integral), however, most of books include their own exercises).
+Also, I am going to pass sets of courses from 4 top CS programs: MIT, Berkeley, Stanford & CMU.
 
 /*
  * STRUCTURE
@@ -49,6 +36,8 @@ Additional courses:
 * Lisp programming;
 * UNIX environment.
 
+Book directory tree is organized mostly according to the same logic.
+
 /*
  * RESEARCH
  */
@@ -64,6 +53,16 @@ Passing all courses requires creating all of the projects listed below:
 * programming editor (C + Lisp).
 
 Also an article must be written for each of them.
+
+/*
+ * ADDITIONAL MATERIALS
+ */
+
+I also must finish some interesting courses from top universities:
+* MIT: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/;
+* Berkeley: http://inst.eecs.berkeley.edu/classes-eecs.html?_ga=1.189091115.1408716772.1476205445;
+* Stanford: http://exploredegrees.stanford.edu/schoolofengineering/computerscience/#courseinventory;
+* CMU: http://coursecatalog.web.cmu.edu/schoolofcomputerscience/courses/.
 
 /*
  * TERMS
