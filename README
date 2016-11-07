@@ -4,7 +4,7 @@
 
 It's my own CS curriculum, focused mainly on system programming and related fields (but it includes some other topics as well).
 It consists of 14 main & 4 additional courses, with reading some books for each of them & doing a set of projects (not for each course (projects are more integral), however, most of books include their own exercises).
-Also, I am going to pass sets of courses from 4 top CS programs: MIT, Berkeley, Stanford & CMU.
+Also, I am going to pass sets of courses from 4 top CS programs: MIT, Berkeley, Stanford & CMU & some additional materials.
 
 /*
  * STRUCTURE
@@ -55,7 +55,7 @@ Passing all courses requires creating all of the projects listed below:
 Also an article must be written for each of them.
 
 /*
- * ADDITIONAL MATERIALS
+ * UNIVERSITY COURSES
  */
 
 I also must finish some interesting courses from top universities:
@@ -63,6 +63,9 @@ I also must finish some interesting courses from top universities:
 * Berkeley: http://inst.eecs.berkeley.edu/classes-eecs.html?_ga=1.189091115.1408716772.1476205445;
 * Stanford: http://exploredegrees.stanford.edu/schoolofengineering/computerscience/#courseinventory;
 * CMU: http://coursecatalog.web.cmu.edu/schoolofcomputerscience/courses/.
+
+Here is additional materials from the web:
+* Saylor Academy online courses: https://learn.saylor.org/course/index.php?categoryid=9.
 
 /*
  * TERMS
