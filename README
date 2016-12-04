@@ -49,7 +49,8 @@ Passing all courses requires creating all of the projects listed below:
 * C compiler for x86;
 * new language for system programming;
 * programming editor (C + Lisp);
-* mathematical solver in x86 asm.
+* mathematical solver in x86 asm;
+* emulator for x86.
 
 Also an article must be written for each of them.
 
