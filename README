@@ -2,42 +2,58 @@
  * SHORT DESCRIPTION
  */
 
-It's my own CS curriculum, focused mainly on system programming and related fields (but it includes some other topics as well).
+Here is structure, description and materials for all topics I am currently thoroughly interested in.
 
 /*
- * STRUCTURE
+ * STRATEGY
+ !!!!!!!!!!!!!!!!!!
+ !!! NOT SORTED !!!
+ !!!!!!!!!!!!!!!!!!
  */
 
-Main courses:
-* mathematics:
-	- discrete mathematics;
-	- linear algebra & analytic geometry;
-* algorithms & data structures;
-* electronics;
-* computer architecture:
-	- digital design;
-	- microarchitecture;
-	- instruction set architecture;
-	- x86 (16-, 32-, 64-bit) architecture & assembly language;
+// additional information:
+// + represents full accomplishing,
+//   other symbols aren't defined except their usage as list separators
+
+* repeating of the school program in following subjects:
+	- mathematics:
+		` algebra;
+		` geometry;
+	- physics;
+	- chemistry;
+	- biology (mostly genetics);
+	- history;
+	- english language;
+	- additional;
+* accomplishing Scanavi tasks;
+* learning & repeating of the discrete mathematics;
+* Tanenbaum materials:
+	- structured computer organization;
+	- modern operating systems;
+	- computer networking;
+	- parallel and distributed systems;
+* K&R C language;
+* x86 assembly language;
 * operating systems:
-	- os theory;
-	- kernel programming;
-* networks;
-* parallel & distributed systems;
-* translators & linkers;
-* C programming.
-
-Additional courses:
-* mathematics:
-	- calculus;
-	- mathematical optimizations;
-* Lisp programming;
-* UNIX environment.
-
-Book directory tree is organized mostly according to the same logic.
+	- xv6, UNIX v6, System V, BSD;
+	- writing my own one;
+* chess;
+* my project:
+	- the concept;
+	- map-writing software;
+	- fabula etc.;
+* English language:
+	- grammar;
+	- lexicon;
+	- verbal interpretation;
+* GRE;
+* UNIX environment:
+	- Gentoo Linux;
+	- BSD;
+	- Vim/Emacs.
 
 /*
- * RESEARCH
+ * RESEARCH PROJECTS IN COMPUTER PROGRAMMING
  */
 
 Passing all courses requires creating all of the projects listed below:
@@ -50,7 +66,9 @@ Passing all courses requires creating all of the projects listed below:
 * new language for system programming;
 * programming editor (C + Lisp);
 * mathematical solver in x86 asm;
-* emulator for x86.
+* emulator for x86;
+* map-generating software;
+* generic data structures & algorithms library.
 
 Also an article must be written for each of them.
 
@@ -58,7 +76,7 @@ Also an article must be written for each of them.
  * UNIVERSITY COURSES
  */
 
-I also must finish some interesting courses from top universities:
+I also must finish some courses from top universities:
 * MIT: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/;
 * Berkeley: http://inst.eecs.berkeley.edu/classes-eecs.html?_ga=1.189091115.1408716772.1476205445;
 * Stanford: http://exploredegrees.stanford.edu/schoolofengineering/computerscience/#courseinventory;
@@ -72,6 +90,7 @@ Additional materials from the web:
  */
 
 Approximate period of passing all courses is 2017-2018.
+Dixi.
 
-~~~~~~~~~~~~~~
-sng, 7.11.2016
+~~~~~~~~~~~~~~~
+sng, 18.04.2017
