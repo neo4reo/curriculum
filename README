@@ -16,41 +16,41 @@ Here is structure, description and materials for all topics I am currently thoro
 //   other symbols aren't defined except their usage as list separators
 
 * repeating of the school program in following subjects:
-	- mathematics:
-		` algebra;
-		` geometry;
-	- physics;
-	- chemistry;
-	- biology (mostly genetics);
-	- history;
-	- english language;
-	- additional;
+	* mathematics:
+		* algebra;
+		* geometry;
+	* physics;
+	* chemistry;
+	* biology (mostly genetics);
+	* history;
+	* english language;
+	* additional;
 * accomplishing Scanavi tasks;
 * learning & repeating of the discrete mathematics;
 * Tanenbaum materials:
-	- structured computer organization;
-	- modern operating systems;
-	- computer networking;
-	- parallel and distributed systems;
+	* structured computer organization;
+	* modern operating systems;
+	* computer networking;
+	* parallel and distributed systems;
 * K&R C language;
 * x86 assembly language;
 * operating systems:
-	- xv6, UNIX v6, System V, BSD;
-	- writing my own one;
+	* xv6, UNIX v6, System V, BSD;
+	* writing my own one;
 * chess;
 * my project:
-	- the concept;
-	- map-writing software;
-	- fabula etc.;
+	* the concept;
+	* map-writing software;
+	* fabula etc.;
 * English language:
-	- grammar;
-	- lexicon;
-	- verbal interpretation;
+	* grammar;
+	* lexicon;
+	* verbal interpretation;
 * GRE;
 * UNIX environment:
-	- Gentoo Linux;
-	- BSD;
-	- Vim/Emacs.
+	* Gentoo Linux;
+	* BSD;
+	* Vim/Emacs.
 
 /*
  * RESEARCH PROJECTS IN COMPUTER PROGRAMMING
@@ -93,4 +93,4 @@ Approximate period of passing all courses is 2017-2018.
 Dixi.
 
 ~~~~~~~~~~~~~~~
-sng, 18.04.2017
+sng, 20.04.2017
