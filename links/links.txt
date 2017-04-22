@@ -1,22 +1,35 @@
 computers:
 http://st.suckless.org/patches/scrollback	-- st terminal
-https://lifehacker.ru/2016/07/08/play-chess/	-- chess intro
-http://dreams-kamelot.livejournal.com/3024.html	-- medieval names
 http://vim.wikia.com/wiki/Use_Vim_like_an_IDE	-- vim
 https://cmdchallenge.com/			-- cmdline challenge
+https://www.openhub.net/			-- open source software statistics
+https://jekyllrb.com/				-- jekyll blogging framework
+
+tmp:
+https://www.youtube.com/watch?v=d2rXCmZ86VE	-- operating systems course
+https://www.youtube.com/watch?v=xkLAhU74f3s	-- physics of computer chips
+https://www.youtube.com/watch?v=hZpom8ouYD8	-- file systems in UNIX
+
+chess:
+https://lifehacker.ru/2016/07/08/play-chess/	-- chess intro
+history and fiction:
+http://dreams-kamelot.livejournal.com/3024.html	-- medieval names
 http://www.timeref.com/maps/mapindx.htm		-- medieval maps
+
+science:
 https://www.sciencedaily.com/			-- science news
 https://sourceforge.net/projects/celestia/	-- celestia (astronomy)
-https://www.openhub.net/			-- open source software statistics
 https://celestiaproject.net/			-- celestia (astronomy)
 https://www.openhub.net/p/stellarium		-- stellarium (astronomy)
-https://www.youtube.com/watch?v=xkLAhU74f3s
 https://ru.wikipedia.org/wiki/%D0%A1%D0%BC%D0%B5%D1%80%D1%82%D1%8C_%D0%90%D1%80%D1%82%D1%83%D1%80%D0%B0 -- Arthurian cycle
+
+socionics:
 https://vk.com/socionics_news			-- scientific socionics news
 https://github.com/kiwi0fruit			-- Petr Zagubisalo's blog
-https://www.youtube.com/watch?v=d2rXCmZ86VE	-- 
 http://whychess.ru/taktika3.html?page=3		-- chess tactics
-https://www.italki.com/home			-- 
+
+languages:
+https://www.italki.com/home			-- learn languages online
+
+literature:
 https://mybook.ru/				-- free literature
-https://www.youtube.com/watch?v=hZpom8ouYD8
-https://jekyllrb.com/				-- jekyll blogging framework
