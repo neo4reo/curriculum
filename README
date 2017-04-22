@@ -7,25 +7,22 @@ ALERT: this file is different from TODO, which stored short-term actual informat
 
 /*
  * STRATEGY
- !!!!!!!!!!!!!!!!!!
- !!! NOT SORTED !!!
- !!!!!!!!!!!!!!!!!!
  */
 
 // additional information:
-// + represents full accomplishing,
-//   other symbols aren't defined except their usage as list separators
+// + represents full accomplishing;
+// ~ represents learning in parallel
 
 * repeating of the school program in following subjects:
-	* mathematics:
-		* algebra;
-		* geometry;
-	* physics;
-	* chemistry;
-	* biology (mostly genetics);
-	* history;
-	* english language;
-	* additional;
+	~ mathematics:
+		~ algebra;
+		~ geometry;
+	~ physics;
+	~ chemistry;
+	~ biology (mostly genetics);
+	~ history;
+	~ english language;
+	~ additional;
 * accomplishing Scanavi tasks;
 * learning & repeating of the discrete mathematics;
 * Tanenbaum materials:
@@ -37,23 +34,24 @@ ALERT: this file is different from TODO, which stored short-term actual informat
 * x86 assembly language;
 * operating systems:
 	* xv6, UNIX v6, System V, BSD;
-	* writing my own one;
-* chess;
-* my project:
+	* writing my own one.
+In parallel with:
+~ chess;
+~ my project:
 	* the concept;
 	* map-writing software;
 	* fabula etc.;
-* English language:
-	* grammar;
-	* lexicon;
-	* verbal interpretation;
-* GRE;
-* UNIX environment:
-	* Gentoo Linux;
-	* shell script;
-	* BSD;
-	* Vim/Emacs;
-* TeX typesetting system.
+~ English language:
+	~ grammar;
+	~ lexicon;
+	~ verbal interpretation;
+~ GRE;
+~ UNIX environment:
+	~ Gentoo Linux;
+	~ shell script;
+	~ BSD;
+	~ Vim/Emacs;
+~ TeX typesetting system.
 
 /*
  * RESEARCH PROJECTS IN COMPUTER PROGRAMMING
