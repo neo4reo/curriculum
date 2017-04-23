@@ -12,6 +12,8 @@ https://www.youtube.com/watch?v=hZpom8ouYD8	-- file systems in UNIX
 
 chess:
 https://lifehacker.ru/2016/07/08/play-chess/	-- chess intro
+http://whychess.ru/taktika3.html?page=3		-- chess tactics
+
 history and fiction:
 http://dreams-kamelot.livejournal.com/3024.html	-- medieval names
 http://www.timeref.com/maps/mapindx.htm		-- medieval maps
@@ -26,7 +28,6 @@ https://ru.wikipedia.org/wiki/%D0%A1%D0%BC%D0%B5%D1%80%D1%82%D1%8C_%D0%90%D1%80%
 socionics:
 https://vk.com/socionics_news			-- scientific socionics news
 https://github.com/kiwi0fruit			-- Petr Zagubisalo's blog
-http://whychess.ru/taktika3.html?page=3		-- chess tactics
 
 languages:
 https://www.italki.com/home			-- learn languages online
