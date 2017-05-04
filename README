@@ -57,26 +57,6 @@ In parallel with:
 ~ TeX typesetting system.
 
 /*
- * RESEARCH PROJECTS IN COMPUTER PROGRAMMING
- */
-
-Passing all courses requires creating all of the projects listed below:
-* monolithic UNIX-like kernel (see ygg);
-* microkernel;
-* exokernel;
-* TCP/IP stack;
-* CPU (digital design, microarchitecture, ISA);
-* C compiler for x86;
-* new language for system programming;
-* programming editor (C + Lisp);
-* mathematical solver in x86 asm;
-* emulator for x86;
-* map-generating software;
-* generic data structures & algorithms library.
-
-Also an article must be written for each of them.
-
-/*
  * UNIVERSITY COURSES
  */
 
@@ -89,12 +69,5 @@ I also must finish some courses from top universities:
 Additional materials from the web:
 * Saylor Academy online courses: https://learn.saylor.org/course/index.php?categoryid=9.
 
-/*
- * TERMS
- */
-
-Approximate period of passing all courses is 2017-2018.
-Dixi.
-
 ~~~~~~~~~~~~~~~
-sng, 22.04.2017
+sng, 04.05.2017
